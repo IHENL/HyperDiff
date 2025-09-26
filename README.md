@@ -61,6 +61,7 @@ python main_3dhp.py -c checkpoint/model_3dhp -gpu 0,1 --nolog
 
 ### Pretrained Models
 [Baidu Netdisk](https://pan.baidu.com/s/1oiI1vFOkjgAL-4FpGbDJ2w?pwd=a7ka)
+
 [Google Drive](https://drive.google.com/file/d/1WlMr0vlXhllDiqNq0eb3FnBXs447YILG/view?usp=drive_link)
 
 ## Reference
