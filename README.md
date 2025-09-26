@@ -46,7 +46,6 @@ python main_3dhp.py -c checkpoint/model_3dhp -gpu 0,1 --nolog --evaluate best_ep
 After that, the predicted 3D poses are saved in `./checkpoint`. To get the MPJPE, AUC, PCK metrics, you can evaluate the predictions by running a Matlab script `./3dhp_test/test_util/mpii_test_predictions_ori_py.m`.
 
 ## Training from scratch
-Trained on 2*NVIDIA RTX 4090.
 ### Human3.6M
 To train our model using the 2D keypoints obtained by CPN as inputs, please run:
 ```bash
