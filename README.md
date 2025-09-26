@@ -82,4 +82,4 @@ Our code refers to the following repositories.
 * [Selective-HCN](https://github.com/CFM-MSG/Code_SelectiveHCN)
 
 We thank the authors for releasing their codes.
->>>>>>> 4421b04 (first commit)
+
