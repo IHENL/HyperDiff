@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# HyperDiff: Hypergraph Guided Diffusion Model for 3D Human Pose Estimation
-=======
+
 # HyperDiff: Hypergraph Guided Diffusion Model for 3D Human Pose Estimation [MMSP2025]
 
 The PyTorch implementation for ["HyperDiff: Hypergraph Guided Diffusion Model for 3D Human Pose Estimation"](https://arxiv.org/abs/2508.14431) .
